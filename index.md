@@ -8,7 +8,7 @@ Con más de 10 años de experiencia laboral en empresas japonesas en México, en
 
 # Nuestra mision
 
-[Link a nuestra vision](./another-page.html).
+[Link a nuestra mision](./another-page.html).
 
 # Nuestro contacto
 
