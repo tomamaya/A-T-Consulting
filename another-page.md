@@ -1,11 +1,14 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Who we are
+description: This is the page of our members
 ---
 
-## Welcome to another page
+## Welcome to our mission page
 
-_yay_
+This is our staff:
+* Aki
+* Tomas
+
 
 [back](./)
